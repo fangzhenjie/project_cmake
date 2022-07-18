@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../source/System_Frame/print_cmake.h
+
+/home/geekfong/my_cmake_project/project_camke/source/System_Frame/print_cmake.cpp
+stdio.h
+-
+
+/home/geekfong/my_cmake_project/project_camke/source/main.cpp
+stdio.h
+-
+print_cmake.h
+/home/geekfong/my_cmake_project/project_camke/source/print_cmake.h
+

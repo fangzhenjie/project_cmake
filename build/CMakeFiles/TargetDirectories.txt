@@ -1,0 +1,13 @@
+/home/geekfong/my_cmake_project/project_camke/build/CMakeFiles/install/strip.dir
+/home/geekfong/my_cmake_project/project_camke/build/CMakeFiles/install.dir
+/home/geekfong/my_cmake_project/project_camke/build/CMakeFiles/install/local.dir
+/home/geekfong/my_cmake_project/project_camke/build/CMakeFiles/list_install_components.dir
+/home/geekfong/my_cmake_project/project_camke/build/CMakeFiles/edit_cache.dir
+/home/geekfong/my_cmake_project/project_camke/build/CMakeFiles/rebuild_cache.dir
+/home/geekfong/my_cmake_project/project_camke/build/source/CMakeFiles/install/strip.dir
+/home/geekfong/my_cmake_project/project_camke/build/source/CMakeFiles/edit_cache.dir
+/home/geekfong/my_cmake_project/project_camke/build/source/CMakeFiles/CMake_Project.dir
+/home/geekfong/my_cmake_project/project_camke/build/source/CMakeFiles/rebuild_cache.dir
+/home/geekfong/my_cmake_project/project_camke/build/source/CMakeFiles/list_install_components.dir
+/home/geekfong/my_cmake_project/project_camke/build/source/CMakeFiles/install/local.dir
+/home/geekfong/my_cmake_project/project_camke/build/source/CMakeFiles/install.dir

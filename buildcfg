@@ -1,0 +1,5 @@
+login_user=root
+login_pswd=lisin
+login_host=192.168.2.161
+exe_bin=lisinmtr
+dest_path=/usr/local/lisin/bin

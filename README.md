@@ -42,10 +42,14 @@
 
 12. log
     存放修改的详细内容
+```
 
 
-
-
-
-
+# buildcfg说明
+```
+login_user=xxx   #要传到对应板子上的ssh账号
+login_pswd=xxx   #要传到对应板子上的ssh密码
+login_host=192.168.2.161 #要传到对应板子上对应的ip
+exe_bin=xxx #要传到对应板子上可执行程序
+dest_path=xxx #传到板子上的那个位置
 ```

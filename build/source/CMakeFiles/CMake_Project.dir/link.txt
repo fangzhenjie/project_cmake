@@ -1,0 +1,1 @@
+/usr/bin/c++    -W -Wall -Wextra -g2 -ggdb -o0 -lpthread -g  -rdynamic CMakeFiles/CMake_Project.dir/System_Frame/print_cmake.cpp.o CMakeFiles/CMake_Project.dir/main.cpp.o  -o CMake_Project 
